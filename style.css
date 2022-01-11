@@ -2,6 +2,16 @@ body {
   background: #5e63f7;
   overflow-x: hidden;
 }
+html {
+  scroll-behavior: smooth;
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.run {
+  text-decoration: none;
+}
 #run-btn {
   display: flex;
   width: 80px;
