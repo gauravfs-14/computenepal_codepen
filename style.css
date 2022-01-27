@@ -69,7 +69,7 @@ hr {
   height: 80vh;
   width: 100%;
   border: 3px solid rgb(231, 207, 207);
-  background: none;
+  background: white;
 }
 @media only screen and (min-width: 600px) {
   .code {
